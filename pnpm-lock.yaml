@@ -1,0 +1,29 @@
+lockfileVersion: 5.3
+
+specifiers:
+  '@types/node': ^17.0.31
+  midi-file: ^1.2.2
+  typescript: ^4.6.4
+
+dependencies:
+  midi-file: 1.2.2
+
+devDependencies:
+  '@types/node': 17.0.31
+  typescript: 4.6.4
+
+packages:
+
+  /@types/node/17.0.31:
+    resolution: {integrity: sha512-AR0x5HbXGqkEx9CadRH3EBYx/VkiUgZIhP4wvPn/+5KIsgpNoyFaRlVe0Zlx9gRtg8fA06a9tskE2MSN7TcG4Q==}
+    dev: true
+
+  /midi-file/1.2.2:
+    resolution: {integrity: sha512-y737hkfHxMikRGzBM22wtyFCo8Pt0jFFiNv7blxY6XF0Rugt8DDE97QzQ0DbJpDd8MyuT6m0ziW1rTStFNrLHw==}
+    dev: false
+
+  /typescript/4.6.4:
+    resolution: {integrity: sha512-9ia/jWHIEbo49HfjrLGfKbZSuWo9iTMwXO+Ca3pRsSpbsMbc7/IU8NKdCZVRRBafVPGnoJeFL76ZOAA84I9fEg==}
+    engines: {node: '>=4.2.0'}
+    hasBin: true
+    dev: true
